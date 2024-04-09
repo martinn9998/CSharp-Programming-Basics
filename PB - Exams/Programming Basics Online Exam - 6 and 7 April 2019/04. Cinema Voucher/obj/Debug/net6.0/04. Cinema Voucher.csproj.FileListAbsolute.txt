@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\net6.0\04. Cinema Voucher.exe
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\net6.0\04. Cinema Voucher.deps.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\net6.0\04. Cinema Voucher.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\net6.0\04. Cinema Voucher.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\net6.0\04. Cinema Voucher.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\refint\04. Cinema Voucher.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\04. Cinema Voucher.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\net6.0\ref\04. Cinema Voucher.dll

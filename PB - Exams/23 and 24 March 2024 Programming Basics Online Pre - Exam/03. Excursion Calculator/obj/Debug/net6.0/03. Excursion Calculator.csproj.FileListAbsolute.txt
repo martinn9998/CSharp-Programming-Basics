@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.exe
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.deps.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.runtimeconfig.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\bin\Debug\net6.0\03. Excursion Calculator.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\refint\03. Excursion Calculator.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\03. Excursion Calculator.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\03. Excursion Calculator\obj\Debug\net6.0\ref\03. Excursion Calculator.dll

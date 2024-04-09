@@ -1,0 +1,14 @@
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\bin\Debug\net6.0\05. Coins.exe
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\bin\Debug\net6.0\05. Coins.deps.json
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\bin\Debug\net6.0\05. Coins.runtimeconfig.json
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\bin\Debug\net6.0\05. Coins.dll
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\bin\Debug\net6.0\05. Coins.pdb
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.AssemblyInfoInputs.cache
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.AssemblyInfo.cs
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.csproj.CoreCompileInputs.cache
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.dll
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\refint\05. Coins.dll
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.pdb
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\05. Coins.genruntimeconfig.cache
+D:\CSharp\C# Basics\12. While Loop - Exercise\05. Coins\obj\Debug\net6.0\ref\05. Coins.dll

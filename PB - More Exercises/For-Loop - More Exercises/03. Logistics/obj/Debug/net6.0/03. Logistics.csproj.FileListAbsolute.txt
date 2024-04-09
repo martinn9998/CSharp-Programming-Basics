@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\bin\Debug\net6.0\03. Logistics.exe
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\bin\Debug\net6.0\03. Logistics.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\bin\Debug\net6.0\03. Logistics.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\bin\Debug\net6.0\03. Logistics.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\bin\Debug\net6.0\03. Logistics.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\refint\03. Logistics.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\03. Logistics.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\03. Logistics\obj\Debug\net6.0\ref\03. Logistics.dll

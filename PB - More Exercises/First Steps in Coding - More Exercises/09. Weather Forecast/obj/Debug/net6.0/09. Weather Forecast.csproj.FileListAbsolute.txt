@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.exe
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.dll
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\bin\Debug\net6.0\09. Weather Forecast.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.dll
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\refint\09. Weather Forecast.dll
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\09. Weather Forecast.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\09. Weather Forecast\obj\Debug\net6.0\ref\09. Weather Forecast.dll

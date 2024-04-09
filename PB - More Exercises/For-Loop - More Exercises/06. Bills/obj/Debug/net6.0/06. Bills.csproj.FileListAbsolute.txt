@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.exe
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\refint\06. Bills.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\06. Bills\obj\Debug\net6.0\ref\06. Bills.dll

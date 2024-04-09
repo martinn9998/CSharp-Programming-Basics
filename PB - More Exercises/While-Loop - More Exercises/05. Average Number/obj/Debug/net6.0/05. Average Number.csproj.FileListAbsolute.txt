@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\bin\Debug\net6.0\05. Average Number.exe
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\bin\Debug\net6.0\05. Average Number.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\bin\Debug\net6.0\05. Average Number.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\bin\Debug\net6.0\05. Average Number.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\bin\Debug\net6.0\05. Average Number.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\refint\05. Average Number.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\05. Average Number.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\05. Average Number\obj\Debug\net6.0\ref\05. Average Number.dll

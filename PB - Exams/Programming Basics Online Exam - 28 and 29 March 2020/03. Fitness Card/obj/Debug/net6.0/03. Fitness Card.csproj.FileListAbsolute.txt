@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\refint\03. Fitness Card.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\net6.0\ref\03. Fitness Card.dll

@@ -1,0 +1,11 @@
+﻿int peopleNumber = int.Parse(Console.ReadLine());
+double taxEntrance = double.Parse(Console.ReadLine());
+double priceSunLounger = double.Parse(Console.ReadLine());
+double priceUmbrela = double.Parse(Console.ReadLine());
+double sumEntrance = peopleNumber * taxEntrance;
+double sumSunLounger = Math.Ceiling(peopleNumber * 0.75);
+sumSunLounger = sumSunLounger * priceSunLounger;
+double sumUmbrela = Math.Ceiling(peopleNumber * 0.5);
+sumUmbrela = sumUmbrela * priceUmbrela;
+double sumPrice = sumEntrance + sumSunLounger + sumUmbrela;
+Console.WriteLine($"{sumPrice:f2} lv.");

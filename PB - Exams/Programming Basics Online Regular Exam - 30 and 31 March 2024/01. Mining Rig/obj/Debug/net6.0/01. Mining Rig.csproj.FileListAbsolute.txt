@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\bin\Debug\net6.0\01. Mining Rig.exe
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\bin\Debug\net6.0\01. Mining Rig.deps.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\bin\Debug\net6.0\01. Mining Rig.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\bin\Debug\net6.0\01. Mining Rig.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\bin\Debug\net6.0\01. Mining Rig.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\refint\01. Mining Rig.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\01. Mining Rig.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\01. Mining Rig\obj\Debug\net6.0\ref\01. Mining Rig.dll

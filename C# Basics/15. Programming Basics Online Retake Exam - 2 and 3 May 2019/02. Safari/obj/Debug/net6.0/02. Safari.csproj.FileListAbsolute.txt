@@ -1,0 +1,14 @@
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\net6.0\02. Safari.exe
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\net6.0\02. Safari.deps.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\net6.0\02. Safari.runtimeconfig.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\net6.0\02. Safari.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\net6.0\02. Safari.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.AssemblyInfoInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.AssemblyInfo.cs
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.csproj.CoreCompileInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\refint\02. Safari.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\02. Safari.genruntimeconfig.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\net6.0\ref\02. Safari.dll

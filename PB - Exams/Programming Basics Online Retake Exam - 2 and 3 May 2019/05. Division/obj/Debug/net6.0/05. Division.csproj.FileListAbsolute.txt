@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\bin\Debug\net6.0\05. Division.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\bin\Debug\net6.0\05. Division.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\bin\Debug\net6.0\05. Division.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\bin\Debug\net6.0\05. Division.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\bin\Debug\net6.0\05. Division.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\refint\05. Division.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\05. Division.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division\obj\Debug\net6.0\ref\05. Division.dll

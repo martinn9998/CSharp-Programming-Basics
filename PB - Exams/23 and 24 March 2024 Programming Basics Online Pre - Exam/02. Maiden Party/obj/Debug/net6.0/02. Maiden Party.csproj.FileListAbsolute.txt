@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\bin\Debug\net6.0\02. Maiden Party.exe
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\bin\Debug\net6.0\02. Maiden Party.deps.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\bin\Debug\net6.0\02. Maiden Party.runtimeconfig.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\bin\Debug\net6.0\02. Maiden Party.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\bin\Debug\net6.0\02. Maiden Party.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\refint\02. Maiden Party.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\02. Maiden Party.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\02. Maiden Party\obj\Debug\net6.0\ref\02. Maiden Party.dll

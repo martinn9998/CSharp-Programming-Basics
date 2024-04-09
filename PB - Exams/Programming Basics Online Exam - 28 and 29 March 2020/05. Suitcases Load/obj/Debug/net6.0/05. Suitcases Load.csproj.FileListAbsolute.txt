@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\refint\05. Suitcases Load.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net6.0\ref\05. Suitcases Load.dll

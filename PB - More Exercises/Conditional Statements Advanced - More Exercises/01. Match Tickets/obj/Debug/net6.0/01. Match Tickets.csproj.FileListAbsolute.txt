@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.exe
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\refint\01. Match Tickets.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\net6.0\ref\01. Match Tickets.dll

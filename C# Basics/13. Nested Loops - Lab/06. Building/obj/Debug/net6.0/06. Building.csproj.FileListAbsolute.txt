@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.exe
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.deps.json
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.runtimeconfig.json
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.pdb
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.AssemblyInfo.cs
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\refint\06. Building.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.pdb
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.genruntimeconfig.cache
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\06. Building\obj\Debug\net6.0\ref\06. Building.dll

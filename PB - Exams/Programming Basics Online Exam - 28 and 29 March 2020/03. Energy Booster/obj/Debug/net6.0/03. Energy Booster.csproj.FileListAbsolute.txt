@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net6.0\03. Energy Booster.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net6.0\03. Energy Booster.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net6.0\03. Energy Booster.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net6.0\03. Energy Booster.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net6.0\03. Energy Booster.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\refint\03. Energy Booster.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\03. Energy Booster.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net6.0\ref\03. Energy Booster.dll

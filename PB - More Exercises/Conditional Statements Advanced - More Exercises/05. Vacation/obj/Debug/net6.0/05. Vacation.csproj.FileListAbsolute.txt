@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\bin\Debug\net6.0\05. Vacation.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\bin\Debug\net6.0\05. Vacation.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\bin\Debug\net6.0\05. Vacation.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\bin\Debug\net6.0\05. Vacation.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\bin\Debug\net6.0\05. Vacation.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\refint\05. Vacation.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\05. Vacation.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\05. Vacation\obj\Debug\net6.0\ref\05. Vacation.dll

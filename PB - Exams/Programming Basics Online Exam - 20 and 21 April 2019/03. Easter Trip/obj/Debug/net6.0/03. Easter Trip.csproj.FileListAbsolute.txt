@@ -1,0 +1,28 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\refint\03. Easter Trip.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\ref\03. Easter Trip.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\bin\Debug\net6.0\03. Easter Trip.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\refint\03. Easter Trip.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\03. Easter Trip.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Easter Trip\obj\Debug\net6.0\ref\03. Easter Trip.dll

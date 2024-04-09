@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\refint\02. Bike Race.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\ref\02. Bike Race.dll

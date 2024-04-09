@@ -1,0 +1,14 @@
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.AssemblyInfoInputs.cache
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.AssemblyInfo.cs
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\bin\Debug\net6.0\Presentation page 19.exe
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\bin\Debug\net6.0\Presentation page 19.deps.json
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\bin\Debug\net6.0\Presentation page 19.runtimeconfig.json
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\bin\Debug\net6.0\Presentation page 19.dll
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\bin\Debug\net6.0\Presentation page 19.pdb
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.dll
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\refint\Presentation page 19.dll
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.pdb
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\Presentation page 19.genruntimeconfig.cache
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\Presentation page 19\obj\Debug\net6.0\ref\Presentation page 19.dll

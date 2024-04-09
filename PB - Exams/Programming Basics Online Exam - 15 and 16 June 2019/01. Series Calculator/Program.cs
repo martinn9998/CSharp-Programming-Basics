@@ -1,0 +1,13 @@
+﻿string seriesName = Console.ReadLine();
+int seasonsNumber = int.Parse(Console.ReadLine());
+int episodesNumber = int.Parse(Console.ReadLine());
+double durationOfEpisode = double.Parse(Console.ReadLine());
+double durationOfAdsOfEp = 0;
+double durationOfEpWithAds = 0;
+double additionalTimeofSpecialEp = 0;
+double sumTimeOfSeries = 0;
+durationOfAdsOfEp = Math.Round(durationOfEpisode * 0.2, 1);
+durationOfEpWithAds = Math.Round(durationOfAdsOfEp + durationOfEpisode, 1);
+additionalTimeofSpecialEp = seasonsNumber * 10;
+sumTimeOfSeries = durationOfEpWithAds * episodesNumber * seasonsNumber + additionalTimeofSpecialEp;
+Console.WriteLine($"Total time needed to watch the {seriesName} series is {Math.Floor(sumTimeOfSeries)} minutes.");

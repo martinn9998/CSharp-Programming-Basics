@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\bin\Debug\net6.0\05. Tennis Ranklist.exe
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\bin\Debug\net6.0\05. Tennis Ranklist.deps.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\bin\Debug\net6.0\05. Tennis Ranklist.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\bin\Debug\net6.0\05. Tennis Ranklist.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\bin\Debug\net6.0\05. Tennis Ranklist.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\refint\05. Tennis Ranklist.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\05. Tennis Ranklist.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Tennis Ranklist\obj\Debug\net6.0\ref\05. Tennis Ranklist.dll

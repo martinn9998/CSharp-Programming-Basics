@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\net6.0\05. Division Without Remainder.exe
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\net6.0\05. Division Without Remainder.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\net6.0\05. Division Without Remainder.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\net6.0\05. Division Without Remainder.dll
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\net6.0\05. Division Without Remainder.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.dll
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\refint\05. Division Without Remainder.dll
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\05. Division Without Remainder.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\net6.0\ref\05. Division Without Remainder.dll

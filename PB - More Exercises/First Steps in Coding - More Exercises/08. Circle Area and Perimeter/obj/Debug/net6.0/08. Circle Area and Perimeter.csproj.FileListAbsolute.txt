@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\net6.0\08. Circle Area and Perimeter.exe
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\net6.0\08. Circle Area and Perimeter.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\net6.0\08. Circle Area and Perimeter.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\net6.0\08. Circle Area and Perimeter.dll
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\net6.0\08. Circle Area and Perimeter.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.dll
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\refint\08. Circle Area and Perimeter.dll
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\08. Circle Area and Perimeter.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\net6.0\ref\08. Circle Area and Perimeter.dll

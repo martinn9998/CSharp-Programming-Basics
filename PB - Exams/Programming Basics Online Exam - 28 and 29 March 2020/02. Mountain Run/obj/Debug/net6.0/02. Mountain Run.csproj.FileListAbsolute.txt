@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\refint\02. Mountain Run.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Mountain Run\obj\Debug\net6.0\ref\02. Mountain Run.dll

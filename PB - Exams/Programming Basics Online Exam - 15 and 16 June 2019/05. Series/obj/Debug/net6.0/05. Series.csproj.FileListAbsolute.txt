@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\bin\Debug\net6.0\05. Series.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\bin\Debug\net6.0\05. Series.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\bin\Debug\net6.0\05. Series.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\bin\Debug\net6.0\05. Series.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\bin\Debug\net6.0\05. Series.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\refint\05. Series.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\05. Series.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Series\obj\Debug\net6.0\ref\05. Series.dll

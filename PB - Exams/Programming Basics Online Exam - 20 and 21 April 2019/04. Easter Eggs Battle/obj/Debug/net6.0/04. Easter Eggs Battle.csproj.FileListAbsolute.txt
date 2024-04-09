@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\bin\Debug\net6.0\04. Easter Eggs Battle.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\bin\Debug\net6.0\04. Easter Eggs Battle.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\bin\Debug\net6.0\04. Easter Eggs Battle.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\bin\Debug\net6.0\04. Easter Eggs Battle.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\bin\Debug\net6.0\04. Easter Eggs Battle.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\refint\04. Easter Eggs Battle.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\04. Easter Eggs Battle.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Eggs Battle\obj\Debug\net6.0\ref\04. Easter Eggs Battle.dll

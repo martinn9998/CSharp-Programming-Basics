@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\bin\Debug\net6.0\02. Football Results.exe
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\bin\Debug\net6.0\02. Football Results.deps.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\bin\Debug\net6.0\02. Football Results.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\bin\Debug\net6.0\02. Football Results.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\bin\Debug\net6.0\02. Football Results.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\refint\02. Football Results.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\02. Football Results.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Football Results\obj\Debug\net6.0\ref\02. Football Results.dll

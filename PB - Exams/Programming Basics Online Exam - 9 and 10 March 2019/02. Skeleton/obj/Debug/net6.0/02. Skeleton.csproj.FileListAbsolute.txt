@@ -1,0 +1,28 @@
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.exe
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.deps.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\refint\02. Skeleton.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\ref\02. Skeleton.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\bin\Debug\net6.0\02. Skeleton.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\refint\02. Skeleton.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\02. Skeleton.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 9 and 10 March 2019\02. Skeleton\obj\Debug\net6.0\ref\02. Skeleton.dll

@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\bin\Debug\net6.0\05. Christmas Gifts.exe
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\bin\Debug\net6.0\05. Christmas Gifts.deps.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\bin\Debug\net6.0\05. Christmas Gifts.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\bin\Debug\net6.0\05. Christmas Gifts.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\bin\Debug\net6.0\05. Christmas Gifts.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\refint\05. Christmas Gifts.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\05. Christmas Gifts.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\05. Christmas Gifts\obj\Debug\net6.0\ref\05. Christmas Gifts.dll

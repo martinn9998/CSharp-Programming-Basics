@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\refint\03. Lucky Numbers.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\ref\03. Lucky Numbers.dll

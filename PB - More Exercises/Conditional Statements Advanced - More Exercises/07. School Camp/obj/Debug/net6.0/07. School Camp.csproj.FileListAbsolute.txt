@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\net6.0\07. School Camp.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\net6.0\07. School Camp.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\net6.0\07. School Camp.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\net6.0\07. School Camp.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\net6.0\07. School Camp.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\refint\07. School Camp.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\07. School Camp.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\net6.0\ref\07. School Camp.dll

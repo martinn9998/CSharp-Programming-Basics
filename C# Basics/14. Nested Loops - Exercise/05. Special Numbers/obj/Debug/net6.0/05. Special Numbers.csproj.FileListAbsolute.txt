@@ -1,0 +1,14 @@
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.exe
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.deps.json
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.runtimeconfig.json
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.dll
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.pdb
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfoInputs.cache
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfo.cs
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.dll
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\refint\05. Special Numbers.dll
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.pdb
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.genruntimeconfig.cache
+E:\CSharp\14. Nested Loops - Exercise\05. Special Numbers\obj\Debug\net6.0\ref\05. Special Numbers.dll

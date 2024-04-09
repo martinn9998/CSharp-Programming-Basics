@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\refint\05. Care of Puppy.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net6.0\ref\05. Care of Puppy.dll

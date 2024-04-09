@@ -1,0 +1,14 @@
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.exe
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.deps.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.runtimeconfig.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.AssemblyInfoInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.AssemblyInfo.cs
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.csproj.CoreCompileInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\refint\03. Mobile operator.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.genruntimeconfig.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\ref\03. Mobile operator.dll

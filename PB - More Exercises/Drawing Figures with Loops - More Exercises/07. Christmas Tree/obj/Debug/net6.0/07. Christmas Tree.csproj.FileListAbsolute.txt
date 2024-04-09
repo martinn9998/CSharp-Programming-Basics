@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\bin\Debug\net6.0\07. Christmas Tree.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\bin\Debug\net6.0\07. Christmas Tree.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\bin\Debug\net6.0\07. Christmas Tree.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\bin\Debug\net6.0\07. Christmas Tree.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\bin\Debug\net6.0\07. Christmas Tree.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\refint\07. Christmas Tree.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\07. Christmas Tree.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\07. Christmas Tree\obj\Debug\net6.0\ref\07. Christmas Tree.dll

@@ -1,0 +1,28 @@
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.exe
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.deps.json
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.runtimeconfig.json
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.dll
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.pdb
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.AssemblyInfoInputs.cache
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.AssemblyInfo.cs
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.dll
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\refint\05. Travelling.dll
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.pdb
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.genruntimeconfig.cache
+C:\Users\Тотка\source\repos\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\ref\05. Travelling.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.exe
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.deps.json
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.runtimeconfig.json
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\bin\Debug\net6.0\05. Travelling.pdb
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.AssemblyInfo.cs
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\refint\05. Travelling.dll
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.pdb
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\05. Travelling.genruntimeconfig.cache
+D:\CSharp\Programming Basics\C# Basics\13. Nested Loops - Lab\05. Travelling\obj\Debug\net6.0\ref\05. Travelling.dll

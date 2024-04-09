@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\bin\Debug\net6.0\02. Hospital1.exe
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\bin\Debug\net6.0\02. Hospital1.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\bin\Debug\net6.0\02. Hospital1.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\bin\Debug\net6.0\02. Hospital1.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\bin\Debug\net6.0\02. Hospital1.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\refint\02. Hospital1.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\02. Hospital1.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\02. Hospital1\obj\Debug\net6.0\ref\02. Hospital1.dll

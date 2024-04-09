@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\bin\Debug\net6.0\12. The song of the wheels.exe
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\bin\Debug\net6.0\12. The song of the wheels.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\bin\Debug\net6.0\12. The song of the wheels.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\bin\Debug\net6.0\12. The song of the wheels.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\bin\Debug\net6.0\12. The song of the wheels.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\refint\12. The song of the wheels.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\12. The song of the wheels.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\12. The song of the wheels\obj\Debug\net6.0\ref\12. The song of the wheels.dll

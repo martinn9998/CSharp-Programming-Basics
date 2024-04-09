@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\bin\Debug\net6.0\06. Sum And Product.exe
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\bin\Debug\net6.0\06. Sum And Product.deps.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\bin\Debug\net6.0\06. Sum And Product.runtimeconfig.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\bin\Debug\net6.0\06. Sum And Product.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\bin\Debug\net6.0\06. Sum And Product.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\refint\06. Sum And Product.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\06. Sum And Product.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\06. Sum And Product\obj\Debug\net6.0\ref\06. Sum And Product.dll

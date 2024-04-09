@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\refint\02. Cat Walking.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net6.0\ref\02. Cat Walking.dll

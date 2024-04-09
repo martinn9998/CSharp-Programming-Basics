@@ -1,0 +1,28 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\refint\02. Easter Party.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\ref\02. Easter Party.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\net6.0\02. Easter Party.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\refint\02. Easter Party.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\02. Easter Party.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\net6.0\ref\02. Easter Party.dll

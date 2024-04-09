@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\bin\Debug\net6.0\06. Gold Mine.exe
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\bin\Debug\net6.0\06. Gold Mine.deps.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\bin\Debug\net6.0\06. Gold Mine.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\bin\Debug\net6.0\06. Gold Mine.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\bin\Debug\net6.0\06. Gold Mine.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\refint\06. Gold Mine.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\06. Gold Mine.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\06. Gold Mine\obj\Debug\net6.0\ref\06. Gold Mine.dll

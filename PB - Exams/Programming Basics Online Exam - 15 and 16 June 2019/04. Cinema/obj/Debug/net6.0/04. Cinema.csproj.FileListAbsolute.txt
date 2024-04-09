@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\bin\Debug\net6.0\04. Cinema.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\bin\Debug\net6.0\04. Cinema.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\bin\Debug\net6.0\04. Cinema.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\bin\Debug\net6.0\04. Cinema.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\bin\Debug\net6.0\04. Cinema.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\refint\04. Cinema.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\04. Cinema.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Cinema\obj\Debug\net6.0\ref\04. Cinema.dll

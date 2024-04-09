@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\bin\Debug\net6.0\04. Gifts from Santa.exe
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\bin\Debug\net6.0\04. Gifts from Santa.deps.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\bin\Debug\net6.0\04. Gifts from Santa.runtimeconfig.json
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\bin\Debug\net6.0\04. Gifts from Santa.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\bin\Debug\net6.0\04. Gifts from Santa.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\refint\04. Gifts from Santa.dll
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.pdb
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\04. Gifts from Santa.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\CSharp\Programming Basics\PB - Exams\Programming Basics Online Regular Exam - 30 and 31 March 2024\04. Gifts from Santa\obj\Debug\net6.0\ref\04. Gifts from Santa.dll

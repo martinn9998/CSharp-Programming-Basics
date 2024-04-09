@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\bin\Debug\net6.0\03. Gymnastics.exe
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\bin\Debug\net6.0\03. Gymnastics.deps.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\bin\Debug\net6.0\03. Gymnastics.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\bin\Debug\net6.0\03. Gymnastics.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\bin\Debug\net6.0\03. Gymnastics.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\refint\03. Gymnastics.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\03. Gymnastics.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\03. Gymnastics\obj\Debug\net6.0\ref\03. Gymnastics.dll

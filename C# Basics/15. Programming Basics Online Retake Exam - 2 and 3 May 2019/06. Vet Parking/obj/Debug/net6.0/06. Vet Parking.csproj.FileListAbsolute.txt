@@ -1,0 +1,14 @@
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\06. Vet Parking.exe
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\06. Vet Parking.deps.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\06. Vet Parking.runtimeconfig.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\06. Vet Parking.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\06. Vet Parking.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.AssemblyInfoInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.AssemblyInfo.cs
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.csproj.CoreCompileInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\refint\06. Vet Parking.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\06. Vet Parking.genruntimeconfig.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\ref\06. Vet Parking.dll

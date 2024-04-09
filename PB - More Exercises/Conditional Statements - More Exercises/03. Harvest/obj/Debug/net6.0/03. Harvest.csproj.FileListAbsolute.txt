@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\refint\03. Harvest.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\ref\03. Harvest.dll

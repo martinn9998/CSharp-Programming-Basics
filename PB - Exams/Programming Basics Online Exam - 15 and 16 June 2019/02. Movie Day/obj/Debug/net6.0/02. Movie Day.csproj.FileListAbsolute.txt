@@ -1,0 +1,28 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\refint\02. Movie Day.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\ref\02. Movie Day.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\bin\Debug\net6.0\02. Movie Day.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\refint\02. Movie Day.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\02. Movie Day.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\02. Movie Day\obj\Debug\net6.0\ref\02. Movie Day.dll

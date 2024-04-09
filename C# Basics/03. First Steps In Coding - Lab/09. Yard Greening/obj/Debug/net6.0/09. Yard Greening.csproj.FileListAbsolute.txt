@@ -1,0 +1,14 @@
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.exe
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.deps.json
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.runtimeconfig.json
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.dll
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.pdb
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.AssemblyInfo.cs
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.dll
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\refint\09. Yard Greening.dll
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.pdb
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.genruntimeconfig.cache
+C:\Users\Тотка\source\repos\03. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\ref\09. Yard Greening.dll

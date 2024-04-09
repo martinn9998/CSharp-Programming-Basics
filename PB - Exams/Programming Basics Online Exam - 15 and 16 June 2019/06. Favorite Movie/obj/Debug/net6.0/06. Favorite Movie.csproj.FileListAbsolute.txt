@@ -1,0 +1,28 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\refint\06. Favorite Movie.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\ref\06. Favorite Movie.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\net6.0\06. Favorite Movie.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\refint\06. Favorite Movie.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\06. Favorite Movie.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\net6.0\ref\06. Favorite Movie.dll

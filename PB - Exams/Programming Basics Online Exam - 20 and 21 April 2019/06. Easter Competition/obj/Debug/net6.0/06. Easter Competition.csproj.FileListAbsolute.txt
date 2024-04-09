@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\bin\Debug\net6.0\06. Easter Competition.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\bin\Debug\net6.0\06. Easter Competition.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\bin\Debug\net6.0\06. Easter Competition.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\bin\Debug\net6.0\06. Easter Competition.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\bin\Debug\net6.0\06. Easter Competition.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\refint\06. Easter Competition.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\06. Easter Competition.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\06. Easter Competition\obj\Debug\net6.0\ref\06. Easter Competition.dll

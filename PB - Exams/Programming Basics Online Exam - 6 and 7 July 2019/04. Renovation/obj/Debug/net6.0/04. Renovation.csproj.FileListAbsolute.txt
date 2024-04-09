@@ -1,0 +1,28 @@
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.exe
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.deps.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\refint\04. Renovation.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\ref\04. Renovation.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\net6.0\04. Renovation.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\refint\04. Renovation.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\04. Renovation.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\net6.0\ref\04. Renovation.dll

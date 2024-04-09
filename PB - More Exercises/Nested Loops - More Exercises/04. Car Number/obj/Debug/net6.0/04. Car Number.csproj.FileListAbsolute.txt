@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\refint\04. Car Number.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\ref\04. Car Number.dll

@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\refint\01. Agency Profit.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net6.0\ref\01. Agency Profit.dll

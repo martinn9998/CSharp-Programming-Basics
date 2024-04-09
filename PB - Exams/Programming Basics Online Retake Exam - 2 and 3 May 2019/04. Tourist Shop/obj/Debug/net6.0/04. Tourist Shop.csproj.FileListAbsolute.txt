@@ -1,0 +1,28 @@
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.exe
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\refint\04. Tourist Shop.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\ref\04. Tourist Shop.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\bin\Debug\net6.0\04. Tourist Shop.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\refint\04. Tourist Shop.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\04. Tourist Shop.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\04. Tourist Shop\obj\Debug\net6.0\ref\04. Tourist Shop.dll

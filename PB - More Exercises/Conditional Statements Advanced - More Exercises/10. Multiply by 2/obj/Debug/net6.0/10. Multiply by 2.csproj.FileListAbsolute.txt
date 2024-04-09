@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\bin\Debug\net6.0\10. Multiply by 2.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\refint\10. Multiply by 2.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\10. Multiply by 2.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\10. Multiply by 2\obj\Debug\net6.0\ref\10. Multiply by 2.dll

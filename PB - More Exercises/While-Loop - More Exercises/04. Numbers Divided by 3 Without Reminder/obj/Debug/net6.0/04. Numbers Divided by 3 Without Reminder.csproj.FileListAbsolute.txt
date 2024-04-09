@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.exe
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\refint\04. Numbers Divided by 3 Without Reminder.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\04. Numbers Divided by 3 Without Reminder.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\net6.0\ref\04. Numbers Divided by 3 Without Reminder.dll

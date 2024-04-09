@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.exe
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\refint\03. Mobile operator.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\net6.0\ref\03. Mobile operator.dll

@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\bin\Debug\net6.0\05. PC Game Shop.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\bin\Debug\net6.0\05. PC Game Shop.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\bin\Debug\net6.0\05. PC Game Shop.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\bin\Debug\net6.0\05. PC Game Shop.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\bin\Debug\net6.0\05. PC Game Shop.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\refint\05. PC Game Shop.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\05. PC Game Shop.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. PC Game Shop\obj\Debug\net6.0\ref\05. PC Game Shop.dll

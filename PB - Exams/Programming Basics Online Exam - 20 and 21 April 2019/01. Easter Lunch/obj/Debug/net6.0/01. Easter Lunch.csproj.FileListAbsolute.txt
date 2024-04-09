@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\net6.0\01. Easter Lunch.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\net6.0\01. Easter Lunch.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\net6.0\01. Easter Lunch.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\net6.0\01. Easter Lunch.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\net6.0\01. Easter Lunch.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\refint\01. Easter Lunch.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\01. Easter Lunch.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\net6.0\ref\01. Easter Lunch.dll

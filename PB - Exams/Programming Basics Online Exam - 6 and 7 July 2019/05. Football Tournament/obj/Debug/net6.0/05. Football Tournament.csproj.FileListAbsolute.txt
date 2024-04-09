@@ -1,0 +1,28 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\refint\05. Football Tournament.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\ref\05. Football Tournament.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\bin\Debug\net6.0\05. Football Tournament.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\refint\05. Football Tournament.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\05. Football Tournament.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\05. Football Tournament\obj\Debug\net6.0\ref\05. Football Tournament.dll

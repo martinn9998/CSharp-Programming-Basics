@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\refint\04. Car To Go.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\ref\04. Car To Go.dll

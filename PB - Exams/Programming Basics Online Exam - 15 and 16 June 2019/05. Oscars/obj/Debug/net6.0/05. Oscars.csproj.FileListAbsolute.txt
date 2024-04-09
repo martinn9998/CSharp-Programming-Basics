@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\bin\Debug\net6.0\05. Oscars.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\bin\Debug\net6.0\05. Oscars.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\bin\Debug\net6.0\05. Oscars.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\bin\Debug\net6.0\05. Oscars.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\bin\Debug\net6.0\05. Oscars.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\refint\05. Oscars.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\05. Oscars.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\05. Oscars\obj\Debug\net6.0\ref\05. Oscars.dll

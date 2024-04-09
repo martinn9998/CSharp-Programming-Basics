@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\bin\Debug\net6.0\04. Movie Stars.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\bin\Debug\net6.0\04. Movie Stars.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\bin\Debug\net6.0\04. Movie Stars.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\bin\Debug\net6.0\04. Movie Stars.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\bin\Debug\net6.0\04. Movie Stars.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\refint\04. Movie Stars.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\04. Movie Stars.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\04. Movie Stars\obj\Debug\net6.0\ref\04. Movie Stars.dll

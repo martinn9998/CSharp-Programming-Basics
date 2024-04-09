@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\net6.0\04. Triangle of Dollars.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\net6.0\04. Triangle of Dollars.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\net6.0\04. Triangle of Dollars.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\net6.0\04. Triangle of Dollars.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\net6.0\04. Triangle of Dollars.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\refint\04. Triangle of Dollars.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\04. Triangle of Dollars.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\net6.0\ref\04. Triangle of Dollars.dll

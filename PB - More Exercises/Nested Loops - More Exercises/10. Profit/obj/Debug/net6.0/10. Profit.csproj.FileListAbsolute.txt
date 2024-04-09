@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\bin\Debug\net6.0\10. Profit.exe
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\bin\Debug\net6.0\10. Profit.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\bin\Debug\net6.0\10. Profit.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\bin\Debug\net6.0\10. Profit.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\bin\Debug\net6.0\10. Profit.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\refint\10. Profit.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\10. Profit.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\10. Profit\obj\Debug\net6.0\ref\10. Profit.dll

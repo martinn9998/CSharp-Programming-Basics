@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\net6.0\01. Movie Profit.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\net6.0\01. Movie Profit.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\net6.0\01. Movie Profit.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\net6.0\01. Movie Profit.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\bin\Debug\net6.0\01. Movie Profit.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\refint\01. Movie Profit.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\01. Movie Profit.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\01. Movie Profit\obj\Debug\net6.0\ref\01. Movie Profit.dll

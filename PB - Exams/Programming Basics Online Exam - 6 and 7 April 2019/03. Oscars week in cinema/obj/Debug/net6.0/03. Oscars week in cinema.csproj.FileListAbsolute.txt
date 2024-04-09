@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.exe
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.deps.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\refint\03. Oscars week in cinema.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\03. Oscars week in cinema\obj\Debug\net6.0\ref\03. Oscars week in cinema.dll

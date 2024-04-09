@@ -1,0 +1,42 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\refint\06. Name Game.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\ref\06. Name Game.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\refint\06. Name Game.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\ref\06. Name Game.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\bin\Debug\net6.0\06. Name Game.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\refint\06. Name Game.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\06. Name Game.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Exam - 6 and 7 July 2019\06. Name Game\obj\Debug\net6.0\ref\06. Name Game.dll

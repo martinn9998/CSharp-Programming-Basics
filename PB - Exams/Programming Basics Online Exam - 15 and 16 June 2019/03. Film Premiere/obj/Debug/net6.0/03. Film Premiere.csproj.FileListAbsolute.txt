@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\bin\Debug\net6.0\03. Film Premiere.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\bin\Debug\net6.0\03. Film Premiere.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\bin\Debug\net6.0\03. Film Premiere.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\bin\Debug\net6.0\03. Film Premiere.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\bin\Debug\net6.0\03. Film Premiere.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\refint\03. Film Premiere.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\03. Film Premiere.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Film Premiere\obj\Debug\net6.0\ref\03. Film Premiere.dll

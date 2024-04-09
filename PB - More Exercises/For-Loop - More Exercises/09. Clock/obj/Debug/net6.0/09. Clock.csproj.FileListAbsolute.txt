@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\bin\Debug\net6.0\09. Clock.exe
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\bin\Debug\net6.0\09. Clock.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\bin\Debug\net6.0\09. Clock.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\bin\Debug\net6.0\09. Clock.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\bin\Debug\net6.0\09. Clock.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\refint\09. Clock.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\09. Clock.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\09. Clock\obj\Debug\net6.0\ref\09. Clock.dll

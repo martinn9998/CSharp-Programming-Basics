@@ -1,0 +1,14 @@
+E:\CSharp\14. Nested Loops - Exercise\Demo\bin\Debug\net6.0\Demo.exe
+E:\CSharp\14. Nested Loops - Exercise\Demo\bin\Debug\net6.0\Demo.deps.json
+E:\CSharp\14. Nested Loops - Exercise\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+E:\CSharp\14. Nested Loops - Exercise\Demo\bin\Debug\net6.0\Demo.dll
+E:\CSharp\14. Nested Loops - Exercise\Demo\bin\Debug\net6.0\Demo.pdb
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.dll
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\refint\Demo.dll
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.pdb
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+E:\CSharp\14. Nested Loops - Exercise\Demo\obj\Debug\net6.0\ref\Demo.dll

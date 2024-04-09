@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\bin\Debug\net6.0\07. Football League.exe
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\bin\Debug\net6.0\07. Football League.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\bin\Debug\net6.0\07. Football League.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\bin\Debug\net6.0\07. Football League.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\bin\Debug\net6.0\07. Football League.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\refint\07. Football League.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\07. Football League.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\07. Football League\obj\Debug\net6.0\ref\07. Football League.dll

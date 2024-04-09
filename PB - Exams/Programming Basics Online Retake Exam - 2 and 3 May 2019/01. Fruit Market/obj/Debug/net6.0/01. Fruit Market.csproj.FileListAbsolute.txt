@@ -1,0 +1,28 @@
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.exe
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\refint\01. Fruit Market.dll
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\ref\01. Fruit Market.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.exe
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.deps.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\refint\01. Fruit Market.dll
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.pdb
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\01. Fruit Market\obj\Debug\net6.0\ref\01. Fruit Market.dll

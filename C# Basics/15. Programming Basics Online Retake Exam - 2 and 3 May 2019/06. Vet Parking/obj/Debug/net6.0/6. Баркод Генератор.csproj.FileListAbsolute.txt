@@ -1,0 +1,14 @@
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\6. Баркод Генератор.exe
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\6. Баркод Генератор.deps.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\6. Баркод Генератор.runtimeconfig.json
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\6. Баркод Генератор.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\net6.0\6. Баркод Генератор.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.AssemblyInfoInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.AssemblyInfo.cs
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.csproj.CoreCompileInputs.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\refint\6. Баркод Генератор.dll
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.pdb
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\6. Баркод Генератор.genruntimeconfig.cache
+E:\CSharp\15. Programming Basics Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\net6.0\ref\6. Баркод Генератор.dll

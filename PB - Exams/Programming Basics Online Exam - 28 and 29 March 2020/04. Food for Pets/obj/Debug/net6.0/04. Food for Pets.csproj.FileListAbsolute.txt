@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net6.0\04. Food for Pets.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net6.0\04. Food for Pets.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net6.0\04. Food for Pets.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net6.0\04. Food for Pets.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net6.0\04. Food for Pets.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\refint\04. Food for Pets.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\04. Food for Pets.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net6.0\ref\04. Food for Pets.dll

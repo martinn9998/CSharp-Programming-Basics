@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\bin\Debug\net6.0\05. Fitness center.exe
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\bin\Debug\net6.0\05. Fitness center.deps.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\bin\Debug\net6.0\05. Fitness center.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\bin\Debug\net6.0\05. Fitness center.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\bin\Debug\net6.0\05. Fitness center.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\refint\05. Fitness center.dll
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.pdb
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\05. Fitness center.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 9 and 10 March 2019\05. Fitness center2\obj\Debug\net6.0\ref\05. Fitness center.dll

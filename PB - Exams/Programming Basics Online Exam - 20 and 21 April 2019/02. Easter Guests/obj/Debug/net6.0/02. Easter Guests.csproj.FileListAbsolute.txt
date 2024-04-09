@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\net6.0\02. Easter Guests.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\net6.0\02. Easter Guests.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\net6.0\02. Easter Guests.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\net6.0\02. Easter Guests.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\net6.0\02. Easter Guests.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\refint\02. Easter Guests.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\02. Easter Guests.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\net6.0\ref\02. Easter Guests.dll

@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\bin\Debug\net6.0\11. Odd or Even Position.exe
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\bin\Debug\net6.0\11. Odd or Even Position.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\bin\Debug\net6.0\11. Odd or Even Position.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\bin\Debug\net6.0\11. Odd or Even Position.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\bin\Debug\net6.0\11. Odd or Even Position.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\refint\11. Odd or Even Position.dll
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\11. Odd or Even Position.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\For-Loop - More Exercises\11. Odd or Even Position\obj\Debug\net6.0\ref\11. Odd or Even Position.dll

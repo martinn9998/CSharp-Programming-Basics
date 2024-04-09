@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\net6.0\03. Painting Eggs.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\net6.0\03. Painting Eggs.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\net6.0\03. Painting Eggs.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\net6.0\03. Painting Eggs.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\net6.0\03. Painting Eggs.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\refint\03. Painting Eggs.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\03. Painting Eggs.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\net6.0\ref\03. Painting Eggs.dll

@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\bin\Debug\net6.0\01. Easter Bakery.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\bin\Debug\net6.0\01. Easter Bakery.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\bin\Debug\net6.0\01. Easter Bakery.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\bin\Debug\net6.0\01. Easter Bakery.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\bin\Debug\net6.0\01. Easter Bakery.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\refint\01. Easter Bakery.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\01. Easter Bakery.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Bakery\obj\Debug\net6.0\ref\01. Easter Bakery.dll

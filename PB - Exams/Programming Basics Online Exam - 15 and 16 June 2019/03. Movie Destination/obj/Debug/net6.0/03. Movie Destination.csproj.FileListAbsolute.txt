@@ -1,0 +1,14 @@
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\bin\Debug\net6.0\03. Movie Destination.exe
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\bin\Debug\net6.0\03. Movie Destination.deps.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\bin\Debug\net6.0\03. Movie Destination.runtimeconfig.json
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\bin\Debug\net6.0\03. Movie Destination.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\bin\Debug\net6.0\03. Movie Destination.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.AssemblyInfoInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.AssemblyInfo.cs
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.csproj.CoreCompileInputs.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\refint\03. Movie Destination.dll
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.pdb
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\03. Movie Destination.genruntimeconfig.cache
+G:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\03. Movie Destination\obj\Debug\net6.0\ref\03. Movie Destination.dll

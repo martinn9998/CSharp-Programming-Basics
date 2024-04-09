@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net6.0\04. Transport Price.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net6.0\04. Transport Price.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net6.0\04. Transport Price.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net6.0\04. Transport Price.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net6.0\04. Transport Price.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\refint\04. Transport Price.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\04. Transport Price.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net6.0\ref\04. Transport Price.dll

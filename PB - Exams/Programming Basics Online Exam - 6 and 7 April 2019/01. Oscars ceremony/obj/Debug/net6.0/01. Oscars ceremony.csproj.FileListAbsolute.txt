@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.AssemblyInfo.cs
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.exe
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.deps.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.runtimeconfig.json
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\refint\01. Oscars ceremony.dll
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.pdb
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.genruntimeconfig.cache
+D:\CSharp\Programming Basics Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\net6.0\ref\01. Oscars ceremony.dll

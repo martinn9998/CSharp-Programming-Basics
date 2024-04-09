@@ -1,0 +1,14 @@
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\net6.0\06. Movie Tickets.exe
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\net6.0\06. Movie Tickets.deps.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\net6.0\06. Movie Tickets.runtimeconfig.json
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\net6.0\06. Movie Tickets.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\net6.0\06. Movie Tickets.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.AssemblyInfoInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.AssemblyInfo.cs
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.csproj.CoreCompileInputs.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\refint\06. Movie Tickets.dll
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.pdb
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\06. Movie Tickets.genruntimeconfig.cache
+D:\CSharp\PB - Exams\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\net6.0\ref\06. Movie Tickets.dll

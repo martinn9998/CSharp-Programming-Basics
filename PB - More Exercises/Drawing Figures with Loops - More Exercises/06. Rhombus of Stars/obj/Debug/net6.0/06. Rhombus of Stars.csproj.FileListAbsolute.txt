@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.exe
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\net6.0\06. Rhombus of Stars.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\refint\06. Rhombus of Stars.dll
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\06. Rhombus of Stars.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\net6.0\ref\06. Rhombus of Stars.dll

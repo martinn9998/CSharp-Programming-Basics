@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.exe
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net6.0\07. Fuel Tank.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\refint\07. Fuel Tank.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\07. Fuel Tank.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net6.0\ref\07. Fuel Tank.dll

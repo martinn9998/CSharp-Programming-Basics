@@ -1,0 +1,14 @@
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.AssemblyInfoInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.AssemblyInfo.cs
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.csproj.CoreCompileInputs.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\bin\Debug\net6.0\05. Excursion Sale.exe
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\bin\Debug\net6.0\05. Excursion Sale.deps.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\bin\Debug\net6.0\05. Excursion Sale.runtimeconfig.json
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\bin\Debug\net6.0\05. Excursion Sale.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\bin\Debug\net6.0\05. Excursion Sale.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\refint\05. Excursion Sale.dll
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.pdb
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\05. Excursion Sale.genruntimeconfig.cache
+C:\Users\Тотка\Desktop\23 and 24 March 2024 Programming Basics Online Pre - Exam\05. Excursion Sale\obj\Debug\net6.0\ref\05. Excursion Sale.dll

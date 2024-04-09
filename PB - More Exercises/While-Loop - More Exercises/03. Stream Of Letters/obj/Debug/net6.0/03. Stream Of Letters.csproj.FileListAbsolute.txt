@@ -1,0 +1,14 @@
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.exe
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.deps.json
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.runtimeconfig.json
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.AssemblyInfoInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.AssemblyInfo.cs
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.csproj.CoreCompileInputs.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\refint\03. Stream Of Letters.dll
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.pdb
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.genruntimeconfig.cache
+D:\CSharp\Programming Basics\PB - More Exercises\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\ref\03. Stream Of Letters.dll

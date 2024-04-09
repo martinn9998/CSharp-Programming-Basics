@@ -1,0 +1,14 @@
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.exe
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.deps.json
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.runtimeconfig.json
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.dll
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net6.0\04. Train The Trainers.pdb
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.AssemblyInfoInputs.cache
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.AssemblyInfo.cs
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.csproj.CoreCompileInputs.cache
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.dll
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\refint\04. Train The Trainers.dll
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.pdb
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\04. Train The Trainers.genruntimeconfig.cache
+E:\CSharp\14. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net6.0\ref\04. Train The Trainers.dll

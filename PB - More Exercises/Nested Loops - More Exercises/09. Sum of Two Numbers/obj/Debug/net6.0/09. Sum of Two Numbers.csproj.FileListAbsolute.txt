@@ -1,0 +1,14 @@
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\bin\Debug\net6.0\09. Sum of Two Numbers.exe
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\bin\Debug\net6.0\09. Sum of Two Numbers.deps.json
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\bin\Debug\net6.0\09. Sum of Two Numbers.runtimeconfig.json
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\bin\Debug\net6.0\09. Sum of Two Numbers.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\bin\Debug\net6.0\09. Sum of Two Numbers.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.AssemblyInfoInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.AssemblyInfo.cs
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\refint\09. Sum of Two Numbers.dll
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.pdb
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\09. Sum of Two Numbers.genruntimeconfig.cache
+G:\CSharp\Programming Basics\PB - More Exercises\Nested Loops - More Exercises\09. Sum of Two Numbers\obj\Debug\net6.0\ref\09. Sum of Two Numbers.dll
